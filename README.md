@@ -19,5 +19,5 @@
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsumaktas)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/maborad)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/muxamos)
 [![Website](https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=white)](https://mahsumaktas.com)
