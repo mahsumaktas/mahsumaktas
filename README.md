@@ -14,7 +14,7 @@
 ### Featured Projects
 
 - **[GhostScore](https://github.com/mahsumaktas/ghostscore)** — Community platform tracking companies that ghost job applicants 👻
-- **[X Unfollow Tool](https://github.com/mahsumaktas/xunfollow-privacy)** — Chrome extension for bulk unfollowing non-followers on X
+- **[X Unfollow Tool](https://github.com/mahsumaktas/x-unfollow)** — Chrome extension for bulk unfollowing non-followers on X
 
 ### Connect
 
