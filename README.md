@@ -13,8 +13,11 @@
 
 ### Featured Projects
 
+- **[VANDORA](https://mahsumaktas.github.io/vandora/)** — Modern single-page demo website for a healthy snack bar brand 🍫
 - **[GhostScore](https://github.com/mahsumaktas/ghostscore)** — Community platform tracking companies that ghost job applicants 👻
 - **[X Unfollow Tool](https://github.com/mahsumaktas/x-unfollow)** — Chrome extension for bulk unfollowing non-followers on X
+- **[Kiracı Hakları Chatbot](https://github.com/mahsumaktas/kiraci-haklari-chatbot)** — AI-powered Turkish tenant rights assistant 🏠
+- **[Persona CV](https://github.com/mahsumaktas/persona-cv)** — AI that clones your professional identity and writes your perfect CV 🧬
 
 ### Connect
 
