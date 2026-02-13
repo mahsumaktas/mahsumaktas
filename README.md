@@ -1,26 +1,26 @@
-## Hey, I'm Mahsum 👋
+## Hi, I'm Mahsum Aktaş 👋
 
-**Senior Operations Manager** at [Obilet](https://obilet.com) — managing 400+ bus companies across Turkey and the Balkans.
+Senior Bus Operations Manager at [obilet](https://obilet.com) (10+ years) building **AI + automation** systems for operations teams.
 
-10 years of building and scaling operations from scratch. Now combining that with AI & automation to make things faster, smarter, and less boring.
+- Scaled and managed **400+ B2B bus partnerships** across Turkey & Balkans
+- Led migration projects for **100+ partners** with high data accuracy
+- Built operational tools: API dashboards, workflow automations, and internal support systems
 
-### What I'm Into
-
-- 🤖 AI-powered workflow automation (Python, OpenAI, Gemini)
-- 📊 Data analysis & operational dashboards
-- 🛠️ Building tools that solve real problems
-- 🌐 Chrome extensions ([X Unfollow Tool](https://chromewebstore.google.com/detail/cpeaigkbonkmgamcdeoflbalglkffeag))
+### What I build
+- ⚙️ Operations automation tools (Python, SQL, APIs, Google Apps Script)
+- 🤖 AI-first products for real business problems
+- 🌐 Practical, user-facing products (web apps, chatbots, browser extensions)
 
 ### Featured Projects
+- [**VANDORA**](https://github.com/mahsumaktas/vandora) — Turkish freelance demo website for a snack brand (GSAP + static deployment)
+- [**Persona CV**](https://github.com/mahsumaktas/persona-cv) — AI-powered CV builder with persona-based writing
+- [**Kiracı Hakları Chatbot**](https://github.com/mahsumaktas/kiraci-haklari-chatbot) — AI legal assistant for Turkish tenant rights
+- [**GhostScore**](https://github.com/mahsumaktas/ghostscore) — Community platform tracking job-application ghosting
+- [**X Unfollow**](https://github.com/mahsumaktas/x-unfollow) — Chrome extension for bulk non-follower cleanup on X
 
-- **[VANDORA](https://mahsumaktas.github.io/vandora/)** — Modern single-page demo website for a healthy snack bar brand 🍫
-- **[GhostScore](https://github.com/mahsumaktas/ghostscore)** — Community platform tracking companies that ghost job applicants 👻
-- **[X Unfollow Tool](https://github.com/mahsumaktas/x-unfollow)** — Chrome extension for bulk unfollowing non-followers on X
-- **[Kiracı Hakları Chatbot](https://github.com/mahsumaktas/kiraci-haklari-chatbot)** — AI-powered Turkish tenant rights assistant 🏠
-- **[Persona CV](https://github.com/mahsumaktas/persona-cv)** — AI that clones your professional identity and writes your perfect CV 🧬
+### Current Focus (2026)
+- Building open-source CLI tools from real operational pain points:
+  - `obibot` · `tufe-cli` · `coldmail` · `xcleaner` · `persona-cv`
 
 ### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsumaktas)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/muxamos)
-[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=white)](https://mahsumaktas.com)
+[LinkedIn](https://linkedin.com/in/mahsumaktas) • [X / Twitter](https://x.com/muxamos) • [Website](https://mahsumaktas.com)
