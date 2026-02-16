@@ -1,26 +1,29 @@
 ## Hi, I'm Mahsum Aktaş 👋
 
-Senior Bus Operations Manager at [obilet](https://obilet.com) (10+ years) building **AI + automation** systems for operations teams.
+Senior Bus Operations Manager at [obilet](https://obilet.com) (10+ years) · Building **AI + automation** tools from real operational pain points.
 
-- Scaled and managed **400+ B2B bus partnerships** across Turkey & Balkans
-- Led migration projects for **100+ partners** with high data accuracy
-- Built operational tools: API dashboards, workflow automations, and internal support systems
+- Scaled **400+ B2B bus partnerships** across Turkey & Balkans
+- Active open-source contributor — **4 PRs merged** to [simili-bot](https://github.com/similigh/simili-bot), contributing to [openclaw](https://github.com/openclaw/openclaw)
+- Building practical tools that solve real problems, not ChatGPT wrappers
 
-### What I build
-- ⚙️ Operations automation tools (Python, SQL, APIs, Google Apps Script)
-- 🤖 AI-first products for real business problems
-- 🌐 Practical, user-facing products (web apps, chatbots, browser extensions)
+### 🔬 Featured Projects
 
-### Featured Projects
-- [**VANDORA**](https://github.com/mahsumaktas/vandora) — Turkish freelance demo website for a snack brand (GSAP + static deployment)
-- [**Persona CV**](https://github.com/mahsumaktas/persona-cv) — AI-powered CV builder with persona-based writing
-- [**Kiracı Hakları Chatbot**](https://github.com/mahsumaktas/kiraci-haklari-chatbot) — AI legal assistant for Turkish tenant rights
-- [**GhostScore**](https://github.com/mahsumaktas/ghostscore) — Community platform tracking job-application ghosting
-- [**X Unfollow**](https://github.com/mahsumaktas/x-unfollow) — Chrome extension for bulk non-follower cleanup on X
+| Project | Description |
+|---------|-------------|
+| [**Treliq**](https://github.com/mahsumaktas/treliq) | AI-powered PR triage for open-source maintainers — dedup, score & rank PRs (TypeScript + LanceDB + multi-LLM) |
+| [**Qragy**](https://github.com/mahsumaktas/qragy) | Self-hosted RAG chatbot. Runs on Raspberry Pi. No Docker, no external vector DB — just `npm start` |
+| [**X Unfollow**](https://github.com/mahsumaktas/x-unfollow) | Chrome extension for bulk non-follower cleanup on X/Twitter (34+ users) |
+| [**Kiracı Hakları Chatbot**](https://github.com/mahsumaktas/kiraci-haklari-chatbot) | AI legal assistant for Turkish tenant rights (Kira Hukuku & TBK) |
+| [**GhostScore**](https://github.com/mahsumaktas/ghostscore) | Community platform tracking companies that ghost job applicants |
+| [**VANDORA**](https://github.com/mahsumaktas/vandora) | Freelance demo — GSAP ScrollTrigger, Lenis smooth scroll, 3D tilt cards |
 
-### Current Focus (2026)
-- Building open-source CLI tools from real operational pain points:
-  - `obibot` · `tufe-cli` · `coldmail` · `xcleaner` · `persona-cv`
+### ⚙️ What I Work With
+`Python` `TypeScript` `SQL` `Google Apps Script` `LanceDB` `Gemini API` `OpenAI API` `Anthropic API`
+
+### 🎯 Current Focus
+- Open-source contributions (PR triage, developer tooling)
+- AI-first operations tools
+- Freelance automation projects
 
 ### Connect
-[LinkedIn](https://linkedin.com/in/mahsumaktas) • [X / Twitter](https://x.com/muxamos) • [Website](https://mahsumaktas.com)
+[LinkedIn](https://linkedin.com/in/mahsumaktas) · [X](https://x.com/muxamos) · [Website](https://mahsumaktas.com)
